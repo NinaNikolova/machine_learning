@@ -1,1 +1,1 @@
-# machine_learning
+# SoftUni course of Machine_learning
